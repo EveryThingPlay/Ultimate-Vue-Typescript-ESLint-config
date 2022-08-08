@@ -1,0 +1,32 @@
+{
+  "name": "etp-eslint-config-vue-typescript",
+  "version": "1.0.0",
+  "description": "My personal ESLint config for Vue 3 + TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EveryThingPlay/Ultimate-Vue-Typescript-ESLint-config.git"
+  },
+  "keywords": [
+    "ESLint",
+    "Vue",
+    "Typescript",
+    "Config"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EveryThingPlay/Ultimate-Vue-Typescript-ESLint-config/issues"
+  },
+  "homepage": "https://github.com/EveryThingPlay/Ultimate-Vue-Typescript-ESLint-config#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.32.0",
+    "@typescript-eslint/parser": "^5.32.0",
+    "eslint": "^8.21.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "typescript": "^4.7.4",
+    "vue-eslint-parser": "^9.0.3"
+  }
+}
